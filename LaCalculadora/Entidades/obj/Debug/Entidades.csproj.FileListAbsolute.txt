@@ -1,0 +1,12 @@
+C:\03_App_Wally\Z_UTN\2018\SegundoCuatrimestre\TP\TP1\LaCalculadora\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\03_App_Wally\Z_UTN\2018\SegundoCuatrimestre\TP\TP1\LaCalculadora\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\03_App_Wally\Z_UTN\2018\SegundoCuatrimestre\TP\TP1\LaCalculadora\Entidades\bin\Debug\Entidades.dll
+C:\03_App_Wally\Z_UTN\2018\SegundoCuatrimestre\TP\TP1\LaCalculadora\Entidades\bin\Debug\Entidades.pdb
+C:\03_App_Wally\Z_UTN\2018\SegundoCuatrimestre\TP\TP1\LaCalculadora\Entidades\obj\Debug\Entidades.dll
+C:\03_App_Wally\Z_UTN\2018\SegundoCuatrimestre\TP\TP1\LaCalculadora\Entidades\obj\Debug\Entidades.pdb
+E:\UTN\2018\SegundoCuatrimestre\TP\TP1\LaCalculadora\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+E:\UTN\2018\SegundoCuatrimestre\TP\TP1\LaCalculadora\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\UTN\2018\SegundoCuatrimestre\TP\TP1\LaCalculadora\Entidades\obj\Debug\Entidades.dll
+E:\UTN\2018\SegundoCuatrimestre\TP\TP1\LaCalculadora\Entidades\obj\Debug\Entidades.pdb
+E:\UTN\2018\SegundoCuatrimestre\TP\TP1\LaCalculadora\Entidades\bin\Debug\Entidades.dll
+E:\UTN\2018\SegundoCuatrimestre\TP\TP1\LaCalculadora\Entidades\bin\Debug\Entidades.pdb
