@@ -1,0 +1,6 @@
+C:\CoarasaW\UTN\2018\SegundoCuatrimestre\TP\TP3\Coarasa.Walter.2C.TP3Ver2\Coarasa.Walter.2C.TP3\Excepciones\bin\Debug\Excepciones.dll
+C:\CoarasaW\UTN\2018\SegundoCuatrimestre\TP\TP3\Coarasa.Walter.2C.TP3Ver2\Coarasa.Walter.2C.TP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\CoarasaW\UTN\2018\SegundoCuatrimestre\TP\TP3\Coarasa.Walter.2C.TP3Ver2\Coarasa.Walter.2C.TP3\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\CoarasaW\UTN\2018\SegundoCuatrimestre\TP\TP3\Coarasa.Walter.2C.TP3Ver2\Coarasa.Walter.2C.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\CoarasaW\UTN\2018\SegundoCuatrimestre\TP\TP3\Coarasa.Walter.2C.TP3Ver2\Coarasa.Walter.2C.TP3\Excepciones\obj\Debug\Excepciones.dll
+C:\CoarasaW\UTN\2018\SegundoCuatrimestre\TP\TP3\Coarasa.Walter.2C.TP3Ver2\Coarasa.Walter.2C.TP3\Excepciones\obj\Debug\Excepciones.pdb

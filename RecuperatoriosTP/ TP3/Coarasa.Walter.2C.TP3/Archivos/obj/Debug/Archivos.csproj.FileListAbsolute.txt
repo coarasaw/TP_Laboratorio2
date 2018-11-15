@@ -1,0 +1,9 @@
+C:\CoarasaW\UTN\2018\SegundoCuatrimestre\TP\TP3\Coarasa.Walter.2C.TP3Ver2\Coarasa.Walter.2C.TP3\Archivos\bin\Debug\Archivos.dll
+C:\CoarasaW\UTN\2018\SegundoCuatrimestre\TP\TP3\Coarasa.Walter.2C.TP3Ver2\Coarasa.Walter.2C.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\CoarasaW\UTN\2018\SegundoCuatrimestre\TP\TP3\Coarasa.Walter.2C.TP3Ver2\Coarasa.Walter.2C.TP3\Archivos\bin\Debug\Excepciones.dll
+C:\CoarasaW\UTN\2018\SegundoCuatrimestre\TP\TP3\Coarasa.Walter.2C.TP3Ver2\Coarasa.Walter.2C.TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\CoarasaW\UTN\2018\SegundoCuatrimestre\TP\TP3\Coarasa.Walter.2C.TP3Ver2\Coarasa.Walter.2C.TP3\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\CoarasaW\UTN\2018\SegundoCuatrimestre\TP\TP3\Coarasa.Walter.2C.TP3Ver2\Coarasa.Walter.2C.TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\CoarasaW\UTN\2018\SegundoCuatrimestre\TP\TP3\Coarasa.Walter.2C.TP3Ver2\Coarasa.Walter.2C.TP3\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\CoarasaW\UTN\2018\SegundoCuatrimestre\TP\TP3\Coarasa.Walter.2C.TP3Ver2\Coarasa.Walter.2C.TP3\Archivos\obj\Debug\Archivos.dll
+C:\CoarasaW\UTN\2018\SegundoCuatrimestre\TP\TP3\Coarasa.Walter.2C.TP3Ver2\Coarasa.Walter.2C.TP3\Archivos\obj\Debug\Archivos.pdb

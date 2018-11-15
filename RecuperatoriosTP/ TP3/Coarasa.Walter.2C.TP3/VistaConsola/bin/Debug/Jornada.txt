@@ -1,0 +1,86 @@
+Clase Laboratorio
+Instructor 1
+Legajo Numero 1
+
+
+Clase Legislacion
+Instructor 1
+Nombre Completo Lopez, Juan
+DNI 12234456
+Nacionalidad Argentino
+
+Legajo Numero 1
+
+
+Clase de Laboratorio
+Nombre Completo Lopez, Juan
+DNI 12234456
+Nacionalidad Argentino
+
+Legajo Numero 1
+
+Clasel del día 
+Legislacion
+Laboratorio
+
+
+Alumnos 
+Nombre Completo Suarez, Joaquin
+DNI 91122456
+Nacionalidad Extranjero
+
+Legajo Numero 7
+
+Estado de Cuenta AlDia
+Toma Clase de Laboratorio
+
+
+---------------------
+Clase de Laboratorio
+Nombre Completo Lopez, Juan
+DNI 12234456
+Nacionalidad Argentino
+
+Legajo Numero 1
+
+Clasel del día 
+SPD
+Laboratorio
+
+
+Alumnos 
+Nombre Completo Suarez, Joaquin
+DNI 91122456
+Nacionalidad Extranjero
+
+Legajo Numero 7
+
+Estado de Cuenta AlDia
+Toma Clase de Laboratorio
+
+
+---------------------
+Clase de Laboratorio
+Nombre Completo Lopez, Juan
+DNI 12234456
+Nacionalidad Argentino
+
+Legajo Numero 1
+
+Clasel del día 
+SPD
+Laboratorio
+
+
+Alumnos 
+Nombre Completo Suarez, Joaquin
+DNI 91122456
+Nacionalidad Extranjero
+
+Legajo Numero 7
+
+Estado de Cuenta AlDia
+Toma Clase de Laboratorio
+
+
+---------------------
