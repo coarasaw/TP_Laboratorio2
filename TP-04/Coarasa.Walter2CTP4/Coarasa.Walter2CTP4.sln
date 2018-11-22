@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainCorreo", "MainCorreo\MainCorreo.csproj", "{1E963AE1-68D2-46C5-9AB6-8832B359DFA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{0C12520A-435B-462A-9C89-72458AE43115}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestT4", "UnitTestT4\UnitTestT4.csproj", "{31D1C548-F3E0-4736-ABF3-17C0E47095D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E963AE1-68D2-46C5-9AB6-8832B359DFA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E963AE1-68D2-46C5-9AB6-8832B359DFA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E963AE1-68D2-46C5-9AB6-8832B359DFA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E963AE1-68D2-46C5-9AB6-8832B359DFA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C12520A-435B-462A-9C89-72458AE43115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C12520A-435B-462A-9C89-72458AE43115}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C12520A-435B-462A-9C89-72458AE43115}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C12520A-435B-462A-9C89-72458AE43115}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31D1C548-F3E0-4736-ABF3-17C0E47095D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31D1C548-F3E0-4736-ABF3-17C0E47095D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31D1C548-F3E0-4736-ABF3-17C0E47095D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31D1C548-F3E0-4736-ABF3-17C0E47095D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBE7BEBE-DAD7-4522-A58B-E4B9091EE287}
+	EndGlobalSection
+EndGlobal

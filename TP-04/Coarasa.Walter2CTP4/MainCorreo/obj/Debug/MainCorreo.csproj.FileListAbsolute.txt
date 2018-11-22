@@ -1,0 +1,13 @@
+C:\CoarasaW\UTN\2018\SegundoCuatrimestre\TP\TP4\Coarasa.Walter2CTP4\MainCorreo\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+C:\CoarasaW\UTN\2018\SegundoCuatrimestre\TP\TP4\Coarasa.Walter2CTP4\MainCorreo\obj\Debug\MainCorreo.FrmPpal.resources
+C:\CoarasaW\UTN\2018\SegundoCuatrimestre\TP\TP4\Coarasa.Walter2CTP4\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+C:\CoarasaW\UTN\2018\SegundoCuatrimestre\TP\TP4\Coarasa.Walter2CTP4\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+C:\CoarasaW\UTN\2018\SegundoCuatrimestre\TP\TP4\Coarasa.Walter2CTP4\MainCorreo\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+C:\CoarasaW\UTN\2018\SegundoCuatrimestre\TP\TP4\Coarasa.Walter2CTP4\MainCorreo\bin\Debug\MainCorreo.exe.config
+C:\CoarasaW\UTN\2018\SegundoCuatrimestre\TP\TP4\Coarasa.Walter2CTP4\MainCorreo\bin\Debug\MainCorreo.exe
+C:\CoarasaW\UTN\2018\SegundoCuatrimestre\TP\TP4\Coarasa.Walter2CTP4\MainCorreo\bin\Debug\MainCorreo.pdb
+C:\CoarasaW\UTN\2018\SegundoCuatrimestre\TP\TP4\Coarasa.Walter2CTP4\MainCorreo\bin\Debug\Entidades.dll
+C:\CoarasaW\UTN\2018\SegundoCuatrimestre\TP\TP4\Coarasa.Walter2CTP4\MainCorreo\bin\Debug\Entidades.pdb
+C:\CoarasaW\UTN\2018\SegundoCuatrimestre\TP\TP4\Coarasa.Walter2CTP4\MainCorreo\obj\Debug\MainCorreo.csproj.CopyComplete
+C:\CoarasaW\UTN\2018\SegundoCuatrimestre\TP\TP4\Coarasa.Walter2CTP4\MainCorreo\obj\Debug\MainCorreo.exe
+C:\CoarasaW\UTN\2018\SegundoCuatrimestre\TP\TP4\Coarasa.Walter2CTP4\MainCorreo\obj\Debug\MainCorreo.pdb
