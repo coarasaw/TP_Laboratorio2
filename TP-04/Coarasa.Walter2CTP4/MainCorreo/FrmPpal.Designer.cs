@@ -28,11 +28,14 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.lblEstadoEntregado = new System.Windows.Forms.Label();
             this.lblEstadoIngresado = new System.Windows.Forms.Label();
             this.lblEstadoEnViaje = new System.Windows.Forms.Label();
             this.lstEstadoEntregado = new System.Windows.Forms.ListBox();
+            this.Menu = new System.Windows.Forms.ContextMenuStrip(this.components);
+            this.Mostrar = new System.Windows.Forms.ToolStripMenuItem();
             this.lstEstadoEnViaje = new System.Windows.Forms.ListBox();
             this.lstEstadoIngresado = new System.Windows.Forms.ListBox();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
@@ -44,6 +47,7 @@
             this.mtxtTrackingID = new System.Windows.Forms.MaskedTextBox();
             this.rtbMostrar = new System.Windows.Forms.RichTextBox();
             this.groupBox1.SuspendLayout();
+            this.Menu.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -91,11 +95,28 @@
             // 
             // lstEstadoEntregado
             // 
+            this.lstEstadoEntregado.ContextMenuStrip = this.Menu;
             this.lstEstadoEntregado.FormattingEnabled = true;
             this.lstEstadoEntregado.Location = new System.Drawing.Point(549, 47);
             this.lstEstadoEntregado.Name = "lstEstadoEntregado";
             this.lstEstadoEntregado.Size = new System.Drawing.Size(219, 264);
             this.lstEstadoEntregado.TabIndex = 2;
+            // 
+            // Menu
+            // 
+            this.Menu.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.Mostrar});
+            this.Menu.Name = "Menu";
+            this.Menu.Size = new System.Drawing.Size(112, 26);
+            this.Menu.Click += new System.EventHandler(this.btnMostrarTodos_Click_1);
+            // 
+            // Mostrar
+            // 
+            this.Mostrar.CheckOnClick = true;
+            this.Mostrar.DoubleClickEnabled = true;
+            this.Mostrar.Name = "Mostrar";
+            this.Mostrar.Size = new System.Drawing.Size(111, 22);
+            this.Mostrar.Text = "Mostar";
             // 
             // lstEstadoEnViaje
             // 
@@ -203,6 +224,7 @@
             this.Text = "correo UTN por Walter.Coarasa.2C";
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
+            this.Menu.ResumeLayout(false);
             this.groupBox2.ResumeLayout(false);
             this.groupBox2.PerformLayout();
             this.ResumeLayout(false);
@@ -226,6 +248,8 @@
         private System.Windows.Forms.TextBox txtDireccion;
         private System.Windows.Forms.MaskedTextBox mtxtTrackingID;
         private System.Windows.Forms.RichTextBox rtbMostrar;
+        private System.Windows.Forms.ContextMenuStrip Menu;
+        private System.Windows.Forms.ToolStripMenuItem Mostrar;
     }
 }
 

@@ -4,7 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Threading;
-using System.Threading.Tasks;
+using Entidades;
+using System.Windows.Forms;
 
 namespace Entidades
 {
@@ -92,7 +93,8 @@ namespace Entidades
             }
             catch (Exception e)
             {
-                throw e;
+                MessageBox.Show(e.Message,"Error Base de Datos");
+                //throw new TrackingIdRepetidoException(e.Message);
             }
         }
 

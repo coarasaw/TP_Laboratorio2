@@ -1,4 +1,3 @@
-C:\CoarasaW\UTN\2018\SegundoCuatrimestre\TP\TP4\Coarasa.Walter2CTP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
 C:\CoarasaW\UTN\2018\SegundoCuatrimestre\TP\TP4\Coarasa.Walter2CTP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\CoarasaW\UTN\2018\SegundoCuatrimestre\TP\TP4\Coarasa.Walter2CTP4\Entidades\bin\Debug\Entidades.dll
 C:\CoarasaW\UTN\2018\SegundoCuatrimestre\TP\TP4\Coarasa.Walter2CTP4\Entidades\bin\Debug\Entidades.pdb

@@ -145,5 +145,15 @@ namespace MainCorreo
         {
             this.MostrarInformacion<List<Paquete>>((IMostrar<List<Paquete>>)correo);
         }
+
+        private void contextMenuStrip2_Opening(object sender, CancelEventArgs e)
+        {
+            
+        }
+
+        private void Mostrar_Opening(object sender, CancelEventArgs e)
+        {
+            this.MostrarInformacion<List<Paquete>>((IMostrar<List<Paquete>>)correo);
+        }
     }
 }
